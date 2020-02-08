@@ -1,0 +1,122 @@
+#
+# Results on Friday February 07 2020 09:33:13 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:72.0) Gecko/20100101 Firefox/72.0
+# Design number was non-random = 0
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1581067994,17de921a7476e3661d0af0662a155322,PennController,0,0,welcome,NULL,PennController,0,_Trial_,Start,1581067696525,NULL
+1581067994,17de921a7476e3661d0af0662a155322,PennController,0,0,welcome,NULL,Html,consentInfo,infosheet,checked,1581067788567,checkbox
+1581067994,17de921a7476e3661d0af0662a155322,PennController,0,0,welcome,NULL,Html,consentInfo,consent,checked,1581067788567,checkbox
+1581067994,17de921a7476e3661d0af0662a155322,PennController,0,0,welcome,NULL,Html,VPInfo,age,29,1581067788569,text input
+1581067994,17de921a7476e3661d0af0662a155322,PennController,0,0,welcome,NULL,Html,VPInfo,gender,male,1581067788569,radio button
+1581067994,17de921a7476e3661d0af0662a155322,PennController,0,0,welcome,NULL,Html,VPInfo,hand,left,1581067788570,radio button
+1581067994,17de921a7476e3661d0af0662a155322,PennController,0,0,welcome,NULL,PennController,0,_Trial_,End,1581067788570,NULL
+1581067994,17de921a7476e3661d0af0662a155322,PennController,1,0,practice,NULL,PennController,1,_Trial_,Start,1581067788577,NULL
+1581067994,17de921a7476e3661d0af0662a155322,PennController,1,0,practice,NULL,PennController,1,_Trial_,End,1581067814474,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ItemNum.
+# 14. Prime.
+# 15. Target.
+# 16. Group.
+# 17. Condition.
+# 18. Time.
+# 19. Comments.
+1581067994,17de921a7476e3661d0af0662a155322,PennController,4,0,experiment,NULL,PennController,5,_Trial_,Start,1581067814479,F3,slippers,alipol,1,filler,1000,NULL
+1581067994,17de921a7476e3661d0af0662a155322,PennController,4,0,experiment,NULL,Selector,cb4a36a7-d3a4-e01c-e4e2-ff6e9e67be76,Selection,No,1581067832840,F3,slippers,alipol,1,filler,1000,NULL
+1581067994,17de921a7476e3661d0af0662a155322,PennController,4,0,experiment,NULL,PennController,5,_Trial_,End,1581067833855,F3,slippers,alipol,1,filler,1000,NULL
+1581067994,17de921a7476e3661d0af0662a155322,PennController,12,0,experiment,NULL,PennController,13,_Trial_,Start,1581067833862,I3,skyscrapers,tall,1,c,1000,NULL
+1581067994,17de921a7476e3661d0af0662a155322,PennController,12,0,experiment,NULL,Selector,11ced530-ec34-f5bf-7ba6-487fcc2122be,Selection,Yes,1581067845571,I3,skyscrapers,tall,1,c,1000,NULL
+1581067994,17de921a7476e3661d0af0662a155322,PennController,12,0,experiment,NULL,PennController,13,_Trial_,End,1581067846579,I3,skyscrapers,tall,1,c,1000,NULL
+1581067994,17de921a7476e3661d0af0662a155322,PennController,10,0,experiment,NULL,PennController,11,_Trial_,Start,1581067846585,I1,cactus,spike,1,a,400,NULL
+1581067994,17de921a7476e3661d0af0662a155322,PennController,10,0,experiment,NULL,Selector,048cda92-7f60-3eda-76e5-2cdb127e5aae,Selection,Yes,1581067863994,I1,cactus,spike,1,a,400,NULL
+1581067994,17de921a7476e3661d0af0662a155322,PennController,10,0,experiment,NULL,PennController,11,_Trial_,End,1581067865005,I1,cactus,spike,1,a,400,NULL
+1581067994,17de921a7476e3661d0af0662a155322,PennController,14,0,experiment,NULL,PennController,15,_Trial_,Start,1581067865011,I5,cheetah,small,1,e,400,NULL
+1581067994,17de921a7476e3661d0af0662a155322,PennController,14,0,experiment,NULL,Selector,2a3ba3d3-edb1-a4b1-b560-7152ac8a78eb,Selection,Yes,1581067875642,I5,cheetah,small,1,e,400,NULL
+1581067994,17de921a7476e3661d0af0662a155322,PennController,14,0,experiment,NULL,PennController,15,_Trial_,End,1581067876662,I5,cheetah,small,1,e,400,NULL
+1581067994,17de921a7476e3661d0af0662a155322,PennController,11,0,experiment,NULL,PennController,12,_Trial_,Start,1581067876666,I2,lion,animal,1,b,400,NULL
+1581067994,17de921a7476e3661d0af0662a155322,PennController,11,0,experiment,NULL,Selector,b3d63235-a0d1-5452-1977-f173f68c7fbe,Selection,No,1581067888745,I2,lion,animal,1,b,400,NULL
+1581067994,17de921a7476e3661d0af0662a155322,PennController,11,0,experiment,NULL,PennController,12,_Trial_,End,1581067889753,I2,lion,animal,1,b,400,NULL
+1581067994,17de921a7476e3661d0af0662a155322,PennController,16,0,experiment,NULL,PennController,17,_Trial_,Start,1581067889757,I7,encyclopaedia,cold,1,g,1000,NULL
+1581067994,17de921a7476e3661d0af0662a155322,PennController,16,0,experiment,NULL,Selector,33322084-0e76-bf54-e19f-0ef5a8a16549,Selection,No,1581067898431,I7,encyclopaedia,cold,1,g,1000,NULL
+1581067994,17de921a7476e3661d0af0662a155322,PennController,16,0,experiment,NULL,PennController,17,_Trial_,End,1581067899441,I7,encyclopaedia,cold,1,g,1000,NULL
+1581067994,17de921a7476e3661d0af0662a155322,PennController,17,0,experiment,NULL,PennController,18,_Trial_,Start,1581067899446,I8,Norway,book,1,h,1000,NULL
+1581067994,17de921a7476e3661d0af0662a155322,PennController,17,0,experiment,NULL,Selector,bb799233-fca8-28da-87ac-1dec4c70c80b,Selection,No,1581067907640,I8,Norway,book,1,h,1000,NULL
+1581067994,17de921a7476e3661d0af0662a155322,PennController,17,0,experiment,NULL,PennController,18,_Trial_,End,1581067908663,I8,Norway,book,1,h,1000,NULL
+1581067994,17de921a7476e3661d0af0662a155322,PennController,2,0,experiment,NULL,PennController,3,_Trial_,Start,1581067908668,F1,lullaby,slike,1,filler,400,NULL
+1581067994,17de921a7476e3661d0af0662a155322,PennController,2,0,experiment,NULL,Selector,51c5d91a-8d21-5155-1b02-bff566ac7ff4,Selection,No,1581067915958,F1,lullaby,slike,1,filler,400,NULL
+1581067994,17de921a7476e3661d0af0662a155322,PennController,2,0,experiment,NULL,PennController,3,_Trial_,End,1581067916967,F1,lullaby,slike,1,filler,400,NULL
+1581067994,17de921a7476e3661d0af0662a155322,PennController,8,0,experiment,NULL,PennController,9,_Trial_,Start,1581067916972,F7,champagne,fimp,1,filler,1000,NULL
+1581067994,17de921a7476e3661d0af0662a155322,PennController,8,0,experiment,NULL,Selector,ca33a33f-14b6-adf0-8dca-92aeb39d87b9,Selection,No,1581067928682,F7,champagne,fimp,1,filler,1000,NULL
+1581067994,17de921a7476e3661d0af0662a155322,PennController,8,0,experiment,NULL,PennController,9,_Trial_,End,1581067929690,F7,champagne,fimp,1,filler,1000,NULL
+1581067994,17de921a7476e3661d0af0662a155322,PennController,9,0,experiment,NULL,PennController,10,_Trial_,Start,1581067929694,F8,rugby,strosh,1,filler,1000,NULL
+1581067994,17de921a7476e3661d0af0662a155322,PennController,9,0,experiment,NULL,Selector,9e14840a-8976-ed16-297a-a0c065c164e8,Selection,No,1581067938011,F8,rugby,strosh,1,filler,1000,NULL
+1581067994,17de921a7476e3661d0af0662a155322,PennController,9,0,experiment,NULL,PennController,10,_Trial_,End,1581067939028,F8,rugby,strosh,1,filler,1000,NULL
+1581067994,17de921a7476e3661d0af0662a155322,PennController,6,0,experiment,NULL,PennController,7,_Trial_,Start,1581067939031,F5,dalmatian,coustly,1,filler,400,NULL
+1581067994,17de921a7476e3661d0af0662a155322,PennController,6,0,experiment,NULL,Selector,e2fc751d-1d4f-ba71-fbc0-274d20427c01,Selection,No,1581067946151,F5,dalmatian,coustly,1,filler,400,NULL
+1581067994,17de921a7476e3661d0af0662a155322,PennController,6,0,experiment,NULL,PennController,7,_Trial_,End,1581067947164,F5,dalmatian,coustly,1,filler,400,NULL
+1581067994,17de921a7476e3661d0af0662a155322,PennController,5,0,experiment,NULL,PennController,6,_Trial_,Start,1581067947168,F4,chair,rall,1,filler,1000,NULL
+1581067994,17de921a7476e3661d0af0662a155322,PennController,5,0,experiment,NULL,Selector,cdb0a5a9-26ce-ae19-2b45-985422b9796f,Selection,No,1581067955317,F4,chair,rall,1,filler,1000,NULL
+1581067994,17de921a7476e3661d0af0662a155322,PennController,5,0,experiment,NULL,PennController,6,_Trial_,End,1581067956336,F4,chair,rall,1,filler,1000,NULL
+1581067994,17de921a7476e3661d0af0662a155322,PennController,13,0,experiment,NULL,PennController,14,_Trial_,Start,1581067956339,I4,steel,metal,1,d,1000,NULL
+1581067994,17de921a7476e3661d0af0662a155322,PennController,13,0,experiment,NULL,Selector,ed838909-bdf4-25e4-3842-43fddbc10ffc,Selection,Yes,1581067962495,I4,steel,metal,1,d,1000,NULL
+1581067994,17de921a7476e3661d0af0662a155322,PennController,13,0,experiment,NULL,PennController,14,_Trial_,End,1581067963506,I4,steel,metal,1,d,1000,NULL
+1581067994,17de921a7476e3661d0af0662a155322,PennController,3,0,experiment,NULL,PennController,4,_Trial_,Start,1581067963510,F2,sapling,mabs,1,filler,400,NULL
+1581067994,17de921a7476e3661d0af0662a155322,PennController,3,0,experiment,NULL,Selector,93a02a14-e7d0-df31-fe80-d58fa1ee319f,Selection,No,1581067970407,F2,sapling,mabs,1,filler,400,NULL
+1581067994,17de921a7476e3661d0af0662a155322,PennController,3,0,experiment,NULL,PennController,4,_Trial_,End,1581067971427,F2,sapling,mabs,1,filler,400,NULL
+1581067994,17de921a7476e3661d0af0662a155322,PennController,15,0,experiment,NULL,PennController,16,_Trial_,Start,1581067971430,I6,minnow,cat,1,f,400,NULL
+1581067994,17de921a7476e3661d0af0662a155322,PennController,15,0,experiment,NULL,Selector,89040d85-fae0-9d67-d03e-c1d43891d7ea,Selection,Yes,1581067978138,I6,minnow,cat,1,f,400,NULL
+1581067994,17de921a7476e3661d0af0662a155322,PennController,15,0,experiment,NULL,PennController,16,_Trial_,End,1581067979147,I6,minnow,cat,1,f,400,NULL
+1581067994,17de921a7476e3661d0af0662a155322,PennController,7,0,experiment,NULL,PennController,8,_Trial_,Start,1581067979151,F6,Pacific,bool,1,filler,400,NULL
+1581067994,17de921a7476e3661d0af0662a155322,PennController,7,0,experiment,NULL,Selector,dcffbe31-b4de-55cc-c2c9-1e12bdaffbb4,Selection,No,1581067991618,F6,Pacific,bool,1,filler,400,NULL
+1581067994,17de921a7476e3661d0af0662a155322,PennController,7,0,experiment,NULL,PennController,8,_Trial_,End,1581067992637,F6,Pacific,bool,1,filler,400,NULL
+#
+# Results on Friday February 07 2020 15:55:43 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:72.0) Gecko/20100101 Firefox/72.0
+# Design number was non-random = 9
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1581090944,8974ddd01c9b48b794419d4a33883113,PennController,0,0,welcome,NULL,PennController,0,_Trial_,Start,1581090934397,NULL
+1581090944,8974ddd01c9b48b794419d4a33883113,PennController,0,0,welcome,NULL,Html,consentInfo,infosheet,checked,1581090943538,checkbox
+1581090944,8974ddd01c9b48b794419d4a33883113,PennController,0,0,welcome,NULL,Html,consentInfo,consent,checked,1581090943538,checkbox
+1581090944,8974ddd01c9b48b794419d4a33883113,PennController,0,0,welcome,NULL,Html,VPInfo,age,3,1581090943541,text input
+1581090944,8974ddd01c9b48b794419d4a33883113,PennController,0,0,welcome,NULL,Html,VPInfo,gender,male,1581090943542,radio button
+1581090944,8974ddd01c9b48b794419d4a33883113,PennController,0,0,welcome,NULL,Html,VPInfo,hand,left,1581090943542,radio button
+1581090944,8974ddd01c9b48b794419d4a33883113,PennController,0,0,welcome,NULL,PennController,0,_Trial_,End,1581090943542,NULL
